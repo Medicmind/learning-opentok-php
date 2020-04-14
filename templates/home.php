@@ -21,7 +21,7 @@
 
 <body>
     <p>
-      This is a sample web service for use with OpenTok. See the OpenTok
+      iThis is a sample web service for use with OpenTok. See the OpenTok
       <a href="https://github.com/opentok/learning-opentok-php">
       learning-opentok-php</a> repo on GitHub.
     </p>
