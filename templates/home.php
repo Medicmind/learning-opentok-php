@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Learning OpenTok PHP</title>
+    <title>Learning OpenTok PHPii</title>
 </head>
 
 <style>
