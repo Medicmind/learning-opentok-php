@@ -14,7 +14,7 @@ $(document).ready(function ready() {
     apiKey = res.apiKey;
     sessionId = res.sessionId;
     token = res.token;
-    alert("ooo"+apiKey+" nnn"+sessionId+" uuu"+token);
+    console.log("ooo"+apiKey+" nnn"+sessionId+" uuu"+token);
     initializeSession();
   });
 });
