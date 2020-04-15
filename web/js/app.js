@@ -83,6 +83,7 @@ function initializeSession() {
 
 // Start recording
 function startArchive() { // eslint-disable-line no-unused-vars
+  console.log("mmm"+SAMPLE_SERVER_BASE_URL + '/archive/start'+" xxx"+sessionId);
   $.ajax({
     url: SAMPLE_SERVER_BASE_URL + '/archive/start',
     type: 'POST',
